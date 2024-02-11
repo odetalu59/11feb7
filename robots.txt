@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://ibeijinger.com/superjp.html/sitemap.xml
+Sitemap: http://ibeijinger.com/gilajp.html/sitemap.xml
+Sitemap: http://ibeijinger.com/gojekpot.html/sitemap.xml
+Sitemap: http://ibeijinger.com/winstrike69.html/sitemap.xml
+Sitemap: http://ibeijinger.com/jagoan86.html/sitemap.xml
+Sitemap: http://ibeijinger.com/slotzeus.html/sitemap.xml
+Sitemap: http://ibeijinger.com/kaptenjackpot.html/sitemap.xml
+Sitemap: http://ibeijinger.com/boosterjp.html/sitemap.xml
+Sitemap: http://ibeijinger.com/kerajaanslot.html/sitemap.xml
+Sitemap: http://ibeijinger.com/pakong86.html/sitemap.xml
+Sitemap: http://ibeijinger.com/viral88.html/sitemap.xml
+Sitemap: http://ibeijinger.com/clan4d.html/sitemap.xml
+Sitemap: http://ibeijinger.com/dinamit4d.html/sitemap.xml
+Sitemap: http://ibeijinger.com/elang212.html/sitemap.xml
+Sitemap: http://ibeijinger.com/gori77.html/sitemap.xml
+Sitemap: http://ibeijinger.com/viral4d.html/sitemap.xml
+Sitemap: http://ibeijinger.com/playground88.html/sitemap.xml
